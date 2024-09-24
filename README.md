@@ -16,7 +16,8 @@ The dataset consists of various factors related to customers and their purchasin
 
 ![Screenshot (162)](https://github.com/user-attachments/assets/e42b3e99-0ec3-40cc-aa21-2e85a6866ad3)
 
-- Sales Analysis Dashboard: The project culminates in a visual dashboard created entirely within Excel. This interactive dashboard provides an overview of the sales data and allows users to explore key metrics and trends. 
+- Sales Analysis Dashboard: The project culminates in a visual dashboard created entirely within Excel. This interactive dashboard provides an overview of the sales data and allows users to explore key metrics and trends.
+- 
 ![Screenshot (164)](https://github.com/user-attachments/assets/ce3e0c90-a284-46ab-b09a-ba15890de15f)
 
 - Usage To explore the project: 1. Download the `Bike Sales Data.xlsx` file from this repository. 2. Open the Excel file using Microsoft Excel or an equivalent spreadsheet software. 3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard. 
